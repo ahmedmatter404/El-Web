@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "104bb1d5f7e61185",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dab340aeaa19ff4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "897e8352fc5e54fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7362d4feba1d22ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd833bad666d8e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "459e8f22b9bd3062",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a49ef8202af3c2fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "closure",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3f3b093177fc6c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.50043487548828,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6a976ea786d422c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "18689d7881e6db70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f5844f46adf8f47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2bda338ba504eea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 Index.md"
+              }
+            }
+          },
+          {
+            "id": "0e489f26738c4e94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7de9cee2c4a1fef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "7067d187a025db02",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2dea863217bb395",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "000 Index.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f84dc5079c2606d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d0d984047b005b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Index.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "open-vscode:VSCode": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "897e8352fc5e54fb",
+  "lastOpenFiles": [
+    "projects/Snapgram/snapgram.md",
+    "000 Index.md",
+    "React/cleanup function.md",
+    "Javascript Jonas/permenantNote/000 Javascript.md",
+    "Javascript Jonas/permenantNote/Event Phases.md",
+    "Javascript Jonas/permenantNote/Capturing, Bubbling.png",
+    "Javascript Jonas/permenantNote/Event Delegation.md",
+    "Javascript Jonas/permenantNote/OOP In JS.md",
+    "Javascript Jonas/permenantNote/Prototypes.md",
+    "Javascript Jonas/permenantNote/ES6 Classes.md",
+    "Javascript Jonas/permenantNote/Module Pattern.md",
+    "React/closure.md",
+    "Javascript Jonas/;WEB moden Javascript, modules, tools.md",
+    "Javascript Jonas/Module Pattern.md",
+    "Javascript Jonas/+How we develop modern javascript applications.md",
+    "Javascript Jonas/permenantNote/Definitions/npm.md",
+    "Javascript Jonas/npm.md",
+    "Javascript Jonas/permenantNote/Dom Behind The scenes.md",
+    "Javascript Jonas/Js-Jonas/15-Mapty/Arcticture.md",
+    "Javascript Jonas/Js-Jonas/15-Mapty/Pasted image 20230928154312.png",
+    "Javascript Jonas/Js-Jonas/15-Mapty/Project features.md",
+    "Javascript Jonas/Js-Jonas/15-Mapty/user stories.md",
+    "Javascript Jonas/Js-Jonas/15-Mapty/Mapty OOP Project.md",
+    "Javascript Jonas/Js-Jonas/15-Mapty/Mapty Project Todo.md",
+    "Javascript Jonas/Js-Jonas/15-Mapty/Local storage.md",
+    "Javascript Jonas/Js-Jonas/15-Mapty/How to plan a web Project?.md",
+    "Javascript Jonas/Js-Jonas/15-Mapty/Flowchart.md",
+    "Javascript Jonas/permenantNote/Asynchronous.md",
+    "Javascript Jonas/permenantNote/Dom API Type Inheritence.png",
+    "Javascript Jonas/permenantNote/Dom Tree Polymorphism.png",
+    "Javascript Jonas/permenantNote/WhatIsInsideExecutionContext 1.png",
+    "ungrouped",
+    "React/Pasted image 20240424130130.png",
+    "Reusable components & utilties/viewport&Threshold for intersection observer.png",
+    "Reusable components & utilties/Components",
+    "React/Redux Middleware.png",
+    "Javascript Jonas/permenantNote/Pasted image 20240618154959.png",
+    "Javascript Jonas/permenantNote/mapFilterReduce.png",
+    "Reusable components & utilties/Methods & utilities",
+    "Freelancing",
+    "Archieve",
+    "projects/Snapgram",
+    "projects",
+    "Reusable components & utilties",
+    "React/React Fleeting Notes",
+    "React/Definitions"
+  ]
+}

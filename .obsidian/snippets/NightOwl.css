@@ -1,0 +1,19 @@
+body {
+  --h1-color: #e9404c;
+  --h2-color: #ffab00;
+  --h3-color: #9ece14;
+  --h4-color: #7dcfff;
+  --h5-color: #7aa2f7;
+  --h6-color: #bb9af7;
+  --bold-color:var(--h3-color);
+  --italic-color:var(--bold-color);
+
+}
+.inline-title{
+  color: inherit;
+}
+
+.theme-dark .cm-strong,
+.theme-dark .cm-em {
+  color: #9ece14;
+}

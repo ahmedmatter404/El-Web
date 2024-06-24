@@ -1,0 +1,3 @@
+- It is following [[Client Server Architecture]]
+- [[When we access a web server]]
+- 

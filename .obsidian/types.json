@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Page": "number",
+    "Book": "multitext",
+    "Link": "text",
+    "Read": "text",
+    "Thinking": "text",
+    "Code": "text",
+    "Debug": "text",
+    "Total": "text",
+    "First AC": "checkbox",
+    "Solve": "text",
+    "AC": "checkbox",
+    "category": "multitext",
+    "reference": "text",
+    "subject": "text"
+  }
+}

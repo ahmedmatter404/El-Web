@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:React  ",
+      "color": {
+        "a": 1,
+        "rgb": 5417696
+      }
+    },
+    {
+      "query": "path:\"Javascript Jonas/permenantNote\" path:",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.7209135969359,
+  "lineSizeMultiplier": 1.77390447223161,
+  "collapse-forces": false,
+  "centerStrength": 0.511039765686606,
+  "repelStrength": 10.4370846006534,
+  "linkStrength": 1,
+  "linkDistance": 206,
+  "scale": 0.29495948710539,
+  "close": true
+}
