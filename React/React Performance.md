@@ -1,0 +1,5 @@
+- [[wasted renders]]
+    - [[passing component, to avoid re-render]]
+- [[Memoization]] and application of [[memo, useMemo, and useCallback]]
+- [[optimize bundle size]]
+- [[Optimization Summary.png]]
